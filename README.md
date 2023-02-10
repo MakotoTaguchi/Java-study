@@ -1,2 +1,2 @@
 # Java-study
-UdemyでのJavaの勉強
+UdemyでのJavaの勉強する
